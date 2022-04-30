@@ -10,6 +10,7 @@
 	<div style="float: right;">
 		<img src="Images/image1.png">
 	</div>
+	<div style="float: left;">Site en cours de construction</div>
 	<div style="width: 100%; height: 800px;"></div>
 </body>
 		<?php include("footer.php"); ?>
